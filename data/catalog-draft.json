@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "reviewedAt": "2026-10-17",
+  "partIds": [
+    "oil-filter",
+    "brake-pads",
+    "battery",
+    "air-filter",
+    "spark-plugs",
+    "shock-absorber",
+    "corolla-oil-filter",
+    "corolla-cross-oil-filter",
+    "yaris-cabin-filter-denso",
+    "yaris-cabin-filter-japan",
+    "camry-air-filter",
+    "prado-cabin-filter",
+    "altima-spark-plug"
+  ],
+  "parts": [
+    {
+      "id": "oil-filter",
+      "name": "فلتر زيت",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "كامري ٦ سلندر ٢٠١٨–٢٠٢٤",
+      "partNumber": "04152-310903",
+      "description": "فلتر أصلي بحسب مدرار، مخصص في صفحة المتجر لكامري ٦ سلندر. رقم المنتج منقول كما نشره المتجر؛ طابقه برقم الهيكل.",
+      "fitment": {
+        "model": "كامري",
+        "fromYear": 2018,
+        "toYear": 2024,
+        "engine": "٦ سلندر"
+      }
+    },
+    {
+      "id": "brake-pads",
+      "name": "فحمات فرامل أمامية",
+      "category": "فرامل",
+      "brand": "هيونداي",
+      "vehicle": "إلنترا ٢٠٢١–٢٠٢٥",
+      "partNumber": "58101-AA000",
+      "description": "طقم أمامي أصلي بحسب رعد أوتو. التوافق من وصف المتجر ويحتاج مطابقة رقم الهيكل.",
+      "fitment": {
+        "model": "إلنترا",
+        "fromYear": 2021,
+        "toYear": 2025,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "battery",
+      "name": "بطارية INFINITY AGM ٧٠ أمبير",
+      "category": "كهرباء",
+      "brand": "حسب المقاس",
+      "vehicle": "التوافق مع السيارة يحتاج تأكيدًا",
+      "partNumber": "U I INF 000003",
+      "description": "بطارية INFINITY بتقنية AGM، سعة ٧٠ أمبير بحسب MRKBATX. لم نثبت توافقها مع ألتيما أو أي موديل بعينه؛ طابق المقاس والأقطاب والمواصفات.",
+      "fitment": null
+    },
+    {
+      "id": "air-filter",
+      "name": "فلتر هواء المحرك",
+      "category": "فلاتر",
+      "brand": "هيونداي",
+      "vehicle": "سوناتا ٢٠٢٠–٢٠٢٣",
+      "partNumber": "28113-L1000",
+      "description": "فلتر أصلي بحسب المتجرين، بنفس رقم القطعة. الموديلات هنا ضمن نطاق التوافق المشترك في وصفيهما؛ تحقق برقم الهيكل.",
+      "fitment": {
+        "model": "سوناتا",
+        "fromYear": 2020,
+        "toYear": 2023,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "spark-plugs",
+      "name": "طقم بواجي ٤ حبات",
+      "category": "كهرباء",
+      "brand": "تويوتا",
+      "vehicle": "كورولا ٢٠٢٠–٢٠٢٥",
+      "partNumber": "90919-01297",
+      "description": "السعر لطقم من ٤ حبات بحسب صفحة FNZ، وليس للحبة الواحدة. طابق رقم القطعة ونوع المحرك.",
+      "fitment": {
+        "model": "كورولا",
+        "fromYear": 2020,
+        "toYear": 2025,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "shock-absorber",
+      "name": "مساعد أمامي يمين",
+      "category": "تعليق",
+      "brand": "نيسان",
+      "vehicle": "صني مكسيكي ٢٠٢٠–٢٠٢٢ • ١٫٦ CVT",
+      "partNumber": "E43025EF0D",
+      "description": "مساعد جهة الراكب أصلي بحسب منصة تريو سبير. نطاق الموديلات مأخوذ من جدول التوافق. السعر محجوب مؤقتًا بسبب اختلاف قيمته بين نتائج المصدر.",
+      "fitment": {
+        "model": "صني مكسيكي",
+        "fromYear": 2020,
+        "toYear": 2022,
+        "engine": "١٫٦ CVT"
+      }
+    },
+    {
+      "id": "corolla-oil-filter",
+      "name": "فلتر زيت كورولا",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "كورولا 2011–2019",
+      "partNumber": "04152-YZZD6",
+      "description": "أصلي بحسب المتجر. التوافق من المتجر؛ طابق رقم الهيكل والمحرك قبل الشراء.",
+      "fitment": {
+        "model": "كورولا",
+        "fromYear": 2011,
+        "toYear": 2019,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "corolla-cross-oil-filter",
+      "name": "فلتر زيت كورولا كروس",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "كورولا كروس 2020–2024",
+      "partNumber": "90915-100099",
+      "description": "أصلي بحسب المتجر؛ رقم القطعة منقول كما نشره البائع. التوافق من المتجر؛ طابق رقم الهيكل والمحرك قبل الشراء.",
+      "fitment": {
+        "model": "كورولا كروس",
+        "fromYear": 2020,
+        "toYear": 2024,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "yaris-cabin-filter-denso",
+      "name": "فلتر مكيف يارس دينسو",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "يارس 2014–2022",
+      "partNumber": "87139-06080D-2",
+      "description": "دينسو بحسب عنوان المتجر، ومصنف تجاري. التوافق من المتجر؛ طابق رقم الهيكل والمحرك قبل الشراء.",
+      "fitment": {
+        "model": "يارس",
+        "fromYear": 2014,
+        "toYear": 2022,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "yaris-cabin-filter-japan",
+      "name": "فلتر مكيف يارس ياباني",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "يارس 2023–2024",
+      "partNumber": "87139-BZ040J",
+      "description": "ياباني بحسب العنوان ومصنف تجاري؛ لا نعتمد شارة الأصالة العامة المتعارضة مع التصنيف. التوافق من المتجر؛ طابق رقم الهيكل والمحرك قبل الشراء.",
+      "fitment": {
+        "model": "يارس",
+        "fromYear": 2023,
+        "toYear": 2024,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "camry-air-filter",
+      "name": "فلتر هواء كامري",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "كامري ٢٠٠٧–٢٠١٧",
+      "partNumber": "17801-28030",
+      "description": "فلتر أصلي بحسب مدرار. الموديلات من عنوان المنتج؛ طابق رقم الهيكل والمحرك قبل الشراء.",
+      "fitment": {
+        "model": "كامري",
+        "fromYear": 2007,
+        "toYear": 2017,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "prado-cabin-filter",
+      "name": "فلتر مكيف برادو",
+      "category": "فلاتر",
+      "brand": "تويوتا",
+      "vehicle": "برادو ٢٠١٠–٢٠١٥",
+      "partNumber": "87139-30040-5",
+      "description": "فلتر أصلي بحسب مدرار. رقم الموديل كما نشره المتجر؛ يلزم تأكيد التوافق برقم الهيكل.",
+      "fitment": {
+        "model": "برادو",
+        "fromYear": 2010,
+        "toYear": 2015,
+        "engine": "غير محدد في المصدر"
+      }
+    },
+    {
+      "id": "altima-spark-plug",
+      "name": "بوجي ألتيما إيريديوم — حبة",
+      "category": "كهرباء",
+      "brand": "نيسان",
+      "vehicle": "ألتيما ٢٠١٣–٢٠١٨ • ٢٫٥ لتر QR25DE",
+      "partNumber": "224013TA1B",
+      "description": "بوجي أصلي بحسب الحل الأمثل. السعر للحبة؛ عدد البواجي وأجرة التركيب منفصلان. طابق الرقم والمحرك.",
+      "fitment": {
+        "model": "ألتيما",
+        "fromYear": 2013,
+        "toYear": 2018,
+        "engine": "2.5 QR25DE"
+      }
+    }
+  ],
+  "offers": [
+    {
+      "partId": "oil-filter",
+      "seller": "مدرار",
+      "priceHalalas": 5031,
+      "sourceUrl": "https://medrar.sa/DGRYROV",
+      "notes": "شامل الضريبة بحسب المتجر. الشحن والتركيب غير محتسبين هنا.",
+      "available": true
+    },
+    {
+      "partId": "brake-pads",
+      "seller": "رعد أوتو",
+      "priceHalalas": 52500,
+      "sourceUrl": "https://raadauto.com/طقم-فحمات-أمامية-النترا-2021-2025-أصلي/p1884813683",
+      "notes": "سعر منشور؛ شمول الضريبة والتوفر يحتاجان تأكيدًا من المتجر. لا يشمل هذا العرض أجرة تركيب.",
+      "available": null
+    },
+    {
+      "partId": "battery",
+      "seller": "MRKBATX",
+      "priceHalalas": 89000,
+      "sourceUrl": "https://portal.mrkbatx.com/product/btry-70-mbyr-infinity-agm/",
+      "notes": "شامل ضريبة القيمة المضافة بحسب المتجر. التوفر يختلف حسب الفرع.",
+      "available": true
+    },
+    {
+      "partId": "air-filter",
+      "seller": "صناع النهضة",
+      "priceHalalas": 8500,
+      "sourceUrl": "https://sunnaalnahda.com/ar/28113l1000-فلتر-هواء-سوناتا-2020-2025-اصلي/p182588137",
+      "notes": "سعر مخفّض منشور شامل الضريبة. أكد التوفر والشحن لدى المتجر.",
+      "available": null
+    },
+    {
+      "partId": "air-filter",
+      "seller": "قناع الفرسان",
+      "priceHalalas": 9500,
+      "sourceUrl": "https://qinaalfursan.com/products/فلتر-هواء-سوناتا-2020-2023-28113-L1000",
+      "notes": "شامل الضريبة؛ كان غير متوفر بالمخزون في صفحة المصدر.",
+      "available": false
+    },
+    {
+      "partId": "spark-plugs",
+      "seller": "FNZ",
+      "priceHalalas": 39000,
+      "sourceUrl": "https://fnz.sa/ar/طقم-بواجى-4-حبه-كورولا-2020-الى-2025-90919-01297/p1002580831",
+      "notes": "سعر منشور للطقم؛ شمول الضريبة والتوفر يحتاجان تأكيدًا من المتجر.",
+      "available": null
+    },
+    {
+      "partId": "shock-absorber",
+      "seller": "تريو سبير",
+      "priceHalalas": null,
+      "sourceUrl": "https://triospare.com/مساعد-امامي-يمين-نيسان-صني-e43025ef0d/",
+      "notes": "ظهرت قيمتان ٧١٤ و٨٢١٫١٠ ريال في المصدر ونتيجته. لم يتضح سبب الفرق أو شمول الضريبة؛ راجع المنصة لتأكيد السعر والبائع.",
+      "available": null
+    },
+    {
+      "partId": "corolla-oil-filter",
+      "seller": "مدرار",
+      "priceHalalas": 3229,
+      "sourceUrl": "https://medrar.sa/ar/vXmADDl",
+      "notes": "السعر المنشور شامل الضريبة. مراجعة المصدر ١٧ أكتوبر ٢٠٢٦؛ الشحن والتركيب منفصلان. السعر والتوفر قابلان للتغير.",
+      "available": true
+    },
+    {
+      "partId": "corolla-cross-oil-filter",
+      "seller": "مدرار",
+      "priceHalalas": 5177,
+      "sourceUrl": "https://medrar.sa/vXPYqXZ",
+      "notes": "السعر المنشور شامل الضريبة. مراجعة المصدر ١٧ أكتوبر ٢٠٢٦؛ الشحن والتركيب منفصلان. السعر والتوفر قابلان للتغير.",
+      "available": true
+    },
+    {
+      "partId": "yaris-cabin-filter-denso",
+      "seller": "مدرار",
+      "priceHalalas": 7756,
+      "sourceUrl": "https://medrar.sa/pAzlawX",
+      "notes": "السعر المنشور شامل الضريبة. مراجعة المصدر ١٧ أكتوبر ٢٠٢٦؛ الشحن والتركيب منفصلان. السعر والتوفر قابلان للتغير.",
+      "available": true
+    },
+    {
+      "partId": "yaris-cabin-filter-japan",
+      "seller": "مدرار",
+      "priceHalalas": 7756,
+      "sourceUrl": "https://medrar.sa/ar/vXavxZv",
+      "notes": "السعر المنشور شامل الضريبة. مراجعة المصدر ١٧ أكتوبر ٢٠٢٦؛ الشحن والتركيب منفصلان. السعر والتوفر قابلان للتغير.",
+      "available": true
+    },
+    {
+      "partId": "camry-air-filter",
+      "seller": "مدرار",
+      "priceHalalas": 16480,
+      "sourceUrl": "https://medrar.sa/mQmZPzq",
+      "notes": "شامل الضريبة. مراجعة ١٦ أكتوبر ٢٠٢٦؛ الشحن والتركيب منفصلان والسعر قابل للتغير.",
+      "available": true
+    },
+    {
+      "partId": "prado-cabin-filter",
+      "seller": "مدرار",
+      "priceHalalas": 21978,
+      "sourceUrl": "https://medrar.sa/YzGNpRR",
+      "notes": "شامل الضريبة. مراجعة ١٦ أكتوبر ٢٠٢٦؛ لا يشمل سعرنا الشحن أو التركيب.",
+      "available": true
+    },
+    {
+      "partId": "altima-spark-plug",
+      "seller": "الحل الأمثل",
+      "priceHalalas": 8000,
+      "sourceUrl": "https://alhal-almathil.com/ar-sa/products/بواجي-التيما",
+      "notes": "سعر منشور في نتيجة البحث، مراجعة ١٦ أكتوبر ٢٠٢٦. تعذر فتح الصفحة مباشرة؛ أكد السعر والضريبة والتوفر لدى المتجر.",
+      "available": null
+    }
+  ],
+  "workshops": [
+    {
+      "id": "asema-electronic",
+      "name": "مركز العاصمة الإلكتروني",
+      "district": "العوالي • صناعية العاصمة",
+      "address": "الرياض، حي العوالي، صناعية العاصمة، طريق المدينة المنورة",
+      "specialty": "ميكانيكا وكهرباء وفحص كمبيوتر وسمكرة",
+      "phone": "0500798224",
+      "sourceUrl": "https://asemaelec.com/اتصل-بنا/",
+      "locationSourceUrl": "https://maps.app.goo.gl/ZUR67L1nLheYD3tGA",
+      "mapsQuery": "24.5724073,46.6023295",
+      "mapsPlaceId": null,
+      "services": [
+        "صيانة ميكانيكا",
+        "إصلاح كهرباء السيارات",
+        "فحص كمبيوتر",
+        "سمكرة وبوية"
+      ]
+    },
+    {
+      "id": "abdulaziz-alsubaie",
+      "name": "مركز عبدالعزيز السبيعي لتعديل وصيانة السيارات",
+      "district": "طويق • صناعية السفارات",
+      "address": "صناعية السفارات، طريق مكة المكرمة، طويق، الرياض 13791",
+      "specialty": "تعديل وصيانة السيارات",
+      "phone": "0552848810",
+      "sourceUrl": "https://linktr.ee/alsubaie",
+      "locationSourceUrl": "https://goo.gl/maps/hE9AfPWTJZwLcMMg9",
+      "mapsQuery": "مركز عبدالعزيز السبيعي لتعديل وصيانة السيارات طويق الرياض",
+      "mapsPlaceId": "ChIJEZWN634jLz4RHfi5LSVY9Ew",
+      "services": [
+        "تعديل السيارات",
+        "صيانة السيارات"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "name": "تغيير زيت المكينة والفلتر",
+      "notes": "أجرة العمل فقط، بشرط شراء الزيت من بروف. لا تشمل الضريبة أو قيمة الزيت والفلتر. السعر النهائي حسب السيارة ونوع الزيت.",
+      "provider": "بروف لخدمات السيارات • الرياض والخرج",
+      "phone": "0534271300",
+      "source": "https://www.baa.sa/product/eo-change/",
+      "priceHalalas": 1000,
+      "maxPriceHalalas": null,
+      "priceKind": "starting_at"
+    },
+    {
+      "name": "تبديل فحمات الفرامل",
+      "notes": "عرض خدمة للجهة الواحدة؛ يضيف المصدر ٥٠ ريال للسيارات الأوروبية. لا يشمل خرط الهوبات. شمول قيمة الفحمات والضريبة ومعنى الجهة يحتاج تأكيدًا من المركز؛ لا نعتبره أجرة يد صافية.",
+      "provider": "بروف لخدمات السيارات • الرياض والخرج",
+      "phone": "0534271300",
+      "source": "https://www.baa.sa/product/brake_pads/",
+      "priceHalalas": 3500,
+      "maxPriceHalalas": null,
+      "priceKind": "starting_at"
+    },
+    {
+      "name": "تغيير زيت القير",
+      "notes": "اطلب تحديد أجرة العمل وقيمة الزيت والفلتر كلًا على حدة، وطريقة التغيير المناسبة لسيارتك.",
+      "provider": "بروف لخدمات السيارات • الرياض والخرج",
+      "phone": null,
+      "source": null,
+      "priceHalalas": null,
+      "maxPriceHalalas": null,
+      "priceKind": "quote"
+    },
+    {
+      "name": "تغيير البواجي",
+      "notes": "نطاق أسعار البداية المنشورة لأجرة العمل فقط: الصغيرة ١٢٠، المتوسطة ١٥٠، ٦ سلندر ١٨٠، و٨ سلندر ٢٢٠ ريال. لا يمثل حدًا أعلى للفاتورة؛ قيمة البواجي منفصلة وشمول الضريبة يحتاج تأكيدًا. لا يُنسب السعر لورش غرب الرياض.",
+      "provider": "موقع خدمات سيارات الرياض • carservicesriyadh.com",
+      "phone": null,
+      "source": "https://carservicesriyadh.com/تغيير-بواجي/",
+      "priceHalalas": 12000,
+      "maxPriceHalalas": 22000,
+      "priceKind": "starting_range"
+    },
+    {
+      "name": "تركيب المساعدات",
+      "notes": "حدّد أمامي أو خلفي، جهة واحدة أو زوجًا، وهل تشمل الأجرة أي أعمال إضافية.",
+      "provider": "بروف لخدمات السيارات • الرياض والخرج",
+      "phone": null,
+      "source": null,
+      "priceHalalas": null,
+      "maxPriceHalalas": null,
+      "priceKind": "quote"
+    },
+    {
+      "name": "فحص كمبيوتر",
+      "notes": "حدّد هل المطلوب قراءة الأكواد فقط أو تشخيص سبب العطل، وهل رسوم الإصلاح منفصلة.",
+      "provider": "بروف لخدمات السيارات • الرياض والخرج",
+      "phone": null,
+      "source": null,
+      "priceHalalas": null,
+      "maxPriceHalalas": null,
+      "priceKind": "quote"
+    }
+  ]
+}
